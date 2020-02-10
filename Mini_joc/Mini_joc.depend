@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581333200 source:c:\users\x\desktop\mini_joc\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
